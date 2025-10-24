@@ -6,7 +6,7 @@
 /*   By: aumartin <aumartin@42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/24 10:22:33 by aumartin          #+#    #+#             */
-/*   Updated: 2025/10/24 15:29:10 by aumartin         ###   ########.fr       */
+/*   Updated: 2025/10/24 16:10:09 by aumartin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,5 +17,6 @@
 # include <stdlib.h>
 # include <stdio.h>
 # include <math.h>
+# define M_PI 3.14159265358979323846
 
 #endif
